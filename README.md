@@ -6,14 +6,17 @@ Cykelbudens huvudsakliga arbetsområde, dvs. gator i "innerstaden" plus lite til
 
 ### I ordning
 Trycksak. Samtliga gator i bokstavsordning, skalade till samma storlek och [lagda i prydliga rader](https://github.com/arvidsvensson/budsalongen2018/blob/master/index_A3_180.pdf).
+
 ![](https://github.com/arvidsvensson/budsalongen2018/blob/master/ordered.png)
  
 ### På varandra
 Trycksak. Samtliga gator på samma ställe, skalade till samma storlek och [lagda ovanpå varandra](https://github.com/arvidsvensson/budsalongen2018/blob/master/xing_A3_180.pdf).
+
 ![](https://github.com/arvidsvensson/budsalongen2018/blob/master/xing.png)
 
 ### På rad
 Trycksak. Obrutna gator med en början och ett slut, utan förgreningar, lagda i bokstavsordning, i lokal skala, [på rad efter varanda](https://github.com/arvidsvensson/budsalongen2018/blob/master/e2e3_A3_180.pdf).
+
 ![](https://github.com/arvidsvensson/budsalongen2018/blob/master/e2e3.png)
 
 ### En i taget
