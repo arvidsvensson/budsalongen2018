@@ -7,7 +7,7 @@ Cykelbudens huvudsakliga arbetsområde, dvs. gator i "innerstaden" plus lite til
 ### I ordning
 Trycksak ämnat för A3. Samtliga gator i bokstavsordning, skalade till samma storlek och [lagda i prydliga rader](https://github.com/arvidsvensson/budsalongen2018/blob/master/index_A3_180.pdf). 
  
-### Korsade
+### På varandra
 Trycksak ämnat för A3. Samtliga gator på samma ställe, skalade till samma storlek och [lagda ovanpå varandra](https://github.com/arvidsvensson/budsalongen2018/blob/master/xing_A3_180.pdf).
 
 ### På rad
