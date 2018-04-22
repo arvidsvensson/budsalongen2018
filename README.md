@@ -15,4 +15,5 @@ Trycksak. Obrutna gator med en början och ett slut, utan förgreningar, lagda i
 
 ### En i taget
 Skulptur. Obrutna gator med en början och ett slut, utan förgreningar, skalade till samma storlek, presenterade i bokstavsordning med datorstyrda modellservon.
-![serv-o-snake](https://github.com/arvidsvensson/budsalongen2018/blob/master/serv-o-snake.jpg)
+
+![](https://github.com/arvidsvensson/budsalongen2018/blob/master/serv-o-snake-sm.jpg)
